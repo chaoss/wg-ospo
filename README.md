@@ -7,7 +7,7 @@
 - [Contributing](#contributing)
 - [Metrics](#metrics)
 - [Contributors](#contributors)
-- [Acknoledgements](#Acknoledgements)
+- [Acknowledgements](#Acknowledgements)
 - [License](#license)
 
 ## Introduction
