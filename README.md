@@ -65,11 +65,16 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ### Chairs
 
+- [Gary White](https://github.com/garypwhite)
+- [Dawn Foster](https://github.com/geekygirldawn)
+
+Please feel free to contact our chairs in case you require any sort of assistance.
+
+### Maintainers
+
 - [Vinod Ahuja](https://github.com/vinodkahuja)
 - [Sean Goggins](https://github.com/sgoggins)
 - [Ana Jiménez](https://github.com/anajsana)
-
- Please feel free to contact our chairs in case you require any sort of assistance.
 
 ### Amazing CHAOSS Project Contributors
 
