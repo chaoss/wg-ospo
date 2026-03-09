@@ -65,16 +65,11 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ### Chairs
 
-- [Gary White](https://github.com/garypwhite)
+- [Alin Jerpelea](https://github.com/jerpelea)
 - [Dawn Foster](https://github.com/geekygirldawn)
+- [Natalia Luzuriaga](https://github.com/natalialuzuriaga) 
 
 Please feel free to contact our chairs in case you require any sort of assistance.
-
-### Maintainers
-
-- [Vinod Ahuja](https://github.com/vinodkahuja)
-- [Sean Goggins](https://github.com/sgoggins)
-- [Ana Jiménez](https://github.com/anajsana)
 
 ### Amazing CHAOSS Project Contributors
 
